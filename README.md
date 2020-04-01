@@ -1,6 +1,4 @@
 # DH150-AUSTINSANCHEZ
-for class demonstration
+# Austin Sanchez - DGTHUM 150
 
-## this is fun!
-
-### smaller
+#
