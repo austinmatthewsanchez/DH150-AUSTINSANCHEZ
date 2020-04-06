@@ -13,9 +13,13 @@ Growing up, sports played a huge part of my life - reading about them, playing t
 When opening the ESPN App, the user is directed to the home page. This is made clear not only through the page's content with top sports headlines, but the "home" button on the navigation bar is bolded. Throughout the app, other methods are used to indicate a user's postion. For instance, when looking at the NFL, a toggle bar notifies users whether they are on the scores, news, standings, or stats page. 
 ##### Severity Rating: 1/3, no usability issues
 
+![NFL Page](/IMG_4517.PNG)
+
 #### 2. MATCH BETWEEN SYSTEM AND THE REAL WORLD
 The ESPN App uses appropriate language for the most part to direct the user through the app. However, there are a few pain points that exist, specifically titles for the navigation tabs. It's unclear what content the 'home' and 'more' tabs will give the user. Other than that, the app uses real world symbols (like the play button) to allow users to pull from real-world knowledge to navigate the app. 
 ##### Severity Rating: 2/3, minor usability issues
+
+![NFL Page](/IMG_4519.PNG)
 
 #### 3. USER CONTROL AND FREEDOM
 The user has options for customization and control in the ESPN app, but it's difficult to find. In order to customize the sports teams, leagues, and players a user would want to follow, the user would have to navigate to the aforementioned "more" tab. Upon arriving, people can add their favorite teams, podcasts and sports, allowing them to filter content that they want. At any time, the user can undo these changes.
@@ -29,10 +33,13 @@ The design is consistent throughout all five tabs of the app. For each section, 
 On a news app, there are few actions that have extraordinary consequences. If a user finds his or her self on an undesired page, back arrows usually solve the problem.  
 ##### Severity Rating: 1/3, no usability issues
 
+![NFL Page](/IMG_4520.PNG)
 
 #### 6. RECOGNITION RATHER THAN RECALL
 The ESPN home page displays top stories, but does little to allow users to filter stories by leagues, teams, etc. Instead of forcing users to search for content via the search bar, options for specific content (such as NFL free agency, NBA playoffs, and sports betting) should be front and center for users to select. However, when customizing content for the home page, the app does a good job of recalling sports leagues, teams and players instead of forcing the user to recall them.
 ##### Severity Rating: 2/3, minor usability issues
+
+![NFL Page](/IMG_4527.PNG)
 
 #### 7. FLEXIBILITY AND EFFICIENCY OF USE
 Some areas of the app treat users as novices and others expect users to have advanced abilities. The horizontal navigation bar is self explanatory and allows most basic users to peruse the app with no issues. However, certain icons like the search feature are placed in obscure postions that make the user question the icon's function. Addtionally, some novice users would prefer text with icons to efficiently navigate the app without clicking wrong buttons. 
