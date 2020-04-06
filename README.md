@@ -69,12 +69,16 @@ This quarter, I'm taking a personal finance class that requires students to read
 The WSJ App currently lets the user know what's going on, but there are several flaws that can be improved. The navigation bar allows users to peruse the app, but it often leaves the user confused which page or section they are on. For instance, the home page doesn't specify the date of the top stories or the section that each story falls under. Additionally, a feature that indicates the length of each article (5 minute read, 10 minute read, etc.) would greatly help busy readers select their articles, allowing them to judge how far they are within a certain piece.
 ##### Severity Rating: 3/3, usability issues that need to be addressed
 
+![WSJ Page](/IMG_4524.PNG)
+
 #### 2. MATCH BETWEEN SYSTEM AND THE REAL WORLD
 The WSJ App uses appropriate language for the most part to direct users through the app. "Sections" is reminiscent of newspaper sections, but the term "topics' might be more applicable since there can be room for more specification within an app. For the market data section, stocks are shown in boxes with their daily increases/decreases. Instead, I would suggest graphs for users to match stock increases with what they are familiar seeing in the real world.
 ##### Severity Rating: 2/3, minor usability issues
 
+![NFL Page](/IMG_4522.PNG)
+
 #### 3. USER CONTROL AND FREEDOM
-The user has limited options for customization and control in The WSJ App. Other news apps allow users to select favorite topics. The WSJ App has a MyWSJ tab, but with limited customization. Users should not only be able to save favorite articles, but also slect content that they would want to appear in a customized feed. The user has the freedom to set specific notifications for breaking news, economy, politics, technology, etc. in the notifications tab. This tab seems out of place and would be more adequately placed under a settings option. 
+The user has limited options for customization and control in The WSJ App. Other news apps allow users to select favorite topics. The WSJ App has a MyWSJ tab, but with limited customization. Users should not only be able to save favorite articles, but also slect content that they would want to appear in a customized feed. The user has the freedom to set specific notifications for breaking news, economy, politics, technology, etc. In the notifications tab. This tab seems out of place and would be more adequately placed under a settings option. 
 ##### Severity Rating: 3/3, usability issues that need to be addressed
 
 #### 4. CONSISTENCY AND STANDARDS
@@ -85,6 +89,7 @@ While the app itself is consistent with its visual design, certain features are 
 On a news app, there are few actions that have extraordinary consequences. If a user finds his or her self on an undesired page, back arrows usually solve the problem. For the WSJ specifically, users have the option to create a customized watchlist of stocks. I accidentally added a stock that I have no longer want on my watchlist, and it's difficult to remove said company. 
 ##### Severity Rating: 2/3, minor usability issues
 
+
 #### 6. RECOGNITION RATHER THAN RECALL
 The WSJ market data page displays top stocks, but does little to allow users to filter stocks by industries, prices, etc. Instead of forcing users to search for stocks to add to their watchlist, suggested stocks should be front and center for users to select. Also, when customizing content for the home page, the app does a good job of recalling sports leagues, teams and players instead of forcing the user to recall them.
 ##### Severity Rating: 2/3, minor usability issues
@@ -92,6 +97,8 @@ The WSJ market data page displays top stocks, but does little to allow users to 
 #### 7. FLEXIBILITY AND EFFICIENCY OF USE
 For the most part, the app does its job. It allows users to access top stories and become informed. Certain buttons and icons cause some confusion though. The search feature is hidden in the corner and the 'notifications' button in the navigation bar is unnecessary. Also, users cannot comment on articles like they can on the webpage. 
 ##### 2/3, minor usability issues
+
+![WSJ Page](/IMG_4517.PNG)
 
 #### 8. AESTHETIC AND MINIMALIST DESIGN
 The design attempts to be as simplistic as possible; however, this simplicity could lead to confusion for people trying to customize their content. The home page stacks stories in a news feed style, but only displays titles and subtitles. The articles are not tied to a certain topic nor are they sorted by "top stories" or "must reads." I would suggest maintaining the minimalist design but also providing the user with more relevant information. 
