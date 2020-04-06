@@ -1,19 +1,64 @@
 # DH150-AUSTINSANCHEZ
 #Austin Sanchez - DH 150: User Experience Design
 
-## WEBSITE #1 - CALIFORNIA PARKS AND RECREATION
+## APP #1 - THE ESPN APP
 
-During this cornonavirus pandemic, I've had the chance to pick up new hobbies, learn new skills, and think of places I want to visit once the quarantine restrictions are lifted. Last week, I visited the CA State Parks website to potentially plan a future trip to one of California's beautful public spaces. The process was confusing and overwhelming. For that reason, I think redesigning the process of learning and planning trips to state parks would be a good project.
 
 ### Current Home Page
-<img src=”./parks&rec - screenshot.png">
 
-### Heuristics
+
+### Heuristic Evaluation - The ESPN App
+Growing up, sports played a huge part of my life - reading about them, playing them, watching them. Since I grew up as technology integrated into the everyday lives of Americans, I was able to observe how the methods of covering sports changed. Back in elementary school, I would read the newspaper to keep up with my favorite teams but as time progressed, so did my preferred method of news consumption. Today, I use the ESPN App frequently and decided to formally anaylze its usability.
+
+#### 1. VISIBILITY OF SYSTEM STATUS
+When opening the ESPN App, the user is directed to the home page. This is made clear not only through thr page's content with top sports headlines, but the "home" button on the navigation bar is bolded. Throughout the app, other methods are used to indicate a user's postion. For instance, when looking at the NFL, a toggle bar notifies users whether they are on the scores, news, standings, or stats page. 
+
+#### 2. MATCH BETWEEN SYSTEM AND THE REAL WORLD
+
+
+
+
+#### 3. USER CONTROL AND FREEDOM
+
+
+
+#### 4. CONSISTENCY AND STANDARDS
+
+
+
+#### 5. ERROR PREVENTION
+
+
+
+#### 6. RECOGNITION RATHER THAN RECALL
+
+
+
+#### 7. FLEXIBILITY AND EFFICIENCY OF USE
+
+
+
+#### 8. AESTHETIC AND MINIMALIST DESIGN
+
+
+
+#### 9. HELP USERS RECOGNIZE, DIAGNOSE, AND RECOVER FROM ERRORS
+
+
+
+#### 10. HELP AND DOCUMENTATION
+
+
+
+### Heuristic Evaluation - The Wall Street Journal App
+This quarter, I'm taking a personal finance class that requires students to read the Wall Street Journal on a weekly basis. I downloaded the mobile app and immediately thought it could be designed better for its users. My brother currently writes for The Journal and we discussed his views on the mobile app. He also was shocked that a publication so large could have a digital platform with glaring usability flaws. As a result, I decided to do a heuristic evaluation on The Wall Street Journal App.
+
+
 #### 1. VISIBILITY OF SYSTEM STATUS
 
 
-
 #### 2. MATCH BETWEEN SYSTEM AND THE REAL WORLD
+
 
 
 
