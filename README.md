@@ -54,7 +54,7 @@ There are no options for help front and center for users to find. If they need h
 
 
 
-### Heuristic Evaluation #2 - The Wall Street Journal App
+## Heuristic Evaluation #2 - The Wall Street Journal App
 #### OVERVIEW
 This quarter, I'm taking a personal finance class that requires students to read the Wall Street Journal on a weekly basis. I downloaded the mobile app and immediately thought it could be designed better for its users. My brother currently writes for The Journal and we discussed his views on the mobile app. He also was shocked that a publication so large could have a digital platform with glaring usability flaws. As a result, I decided to do a heuristic evaluation on The Wall Street Journal App.
 
