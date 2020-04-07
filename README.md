@@ -82,13 +82,12 @@ The user has limited options for customization and control in The WSJ App. Other
 ##### Severity Rating: 3/3, usability issues that need to be addressed
 
 #### 4. CONSISTENCY AND STANDARDS
-While the app itself is consistent with its visual design, certain features are missing. Users cannot comment on artcles like they can on the web version of The WSJ. Menus and logos sit where they would be expected.
-
+While the app itself is consistent with its visual design, certain features are missing. Users cannot comment on artcles like they can on the web version of The WSJ. Menus and logos sit where they would be expected for the most part. There is a tab for notifications which seems misplaced. Also, a search page would be more beneficial for users to find content they want. Belo
+##### Severity Rating: 2/3, minor usability issues
 
 #### 5. ERROR PREVENTION
 On a news app, there are few actions that have extraordinary consequences. If a user finds his or her self on an undesired page, back arrows usually solve the problem. For the WSJ specifically, users have the option to create a customized watchlist of stocks. I accidentally added a stock that I have no longer want on my watchlist, and it's difficult to remove said company. 
 ##### Severity Rating: 2/3, minor usability issues
-
 
 #### 6. RECOGNITION RATHER THAN RECALL
 The WSJ market data page displays top stocks, but does little to allow users to filter stocks by industries, prices, etc. Instead of forcing users to search for stocks to add to their watchlist, suggested stocks should be front and center for users to select. Also, when customizing content for the home page, the app does a good job of recalling sports leagues, teams and players instead of forcing the user to recall them.
