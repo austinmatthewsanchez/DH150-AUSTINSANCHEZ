@@ -8,6 +8,8 @@ After analyzing both the ESPN App and The Wall Street Journal mobile app, I've d
 #### OVERVIEW
 Growing up, sports played a huge part of my life - reading about them, playing them, watching them. Since I grew up as technology integrated into the everyday lives of Americans, I was able to observe how the methods of covering sports changed. Back in elementary school, I would read the newspaper to keep up with my favorite teams but as time progressed, so did my preferred method of news consumption. Today, I use the ESPN App frequently and decided to formally anaylze its usability.
 
+http://www.espn.com/espn/apps/espn
+
 
 #### 1. VISIBILITY OF SYSTEM STATUS
 When opening the ESPN App, the user is directed to the home page. This is made clear not only through the page's content with top sports headlines, but the "home" button on the navigation bar is bolded. Throughout the app, other methods are used to indicate a user's postion. For instance, when looking at the NFL, a toggle bar notifies users whether they are on the scores, news, standings, or stats page. 
@@ -64,6 +66,8 @@ There are no options for help front and center for users to find. If they need h
 ## Heuristic Evaluation #2 - The Wall Street Journal App
 #### OVERVIEW
 This quarter, I'm taking a personal finance class that requires students to read the Wall Street Journal on a weekly basis. I downloaded the mobile app and immediately thought it could be designed better for its users. My brother currently writes for The Journal and we discussed his views on the mobile app. He also was shocked that a publication so large could have a digital platform with glaring usability flaws. As a result, I decided to do a heuristic evaluation on The Wall Street Journal App.
+
+https://now.wsj.com/mobile/ios/
 
 #### 1. VISIBILITY OF SYSTEM STATUS
 The WSJ App currently lets the user know what's going on, but there are several flaws that can be improved. The navigation bar allows users to peruse the app, but it often leaves the user confused which page or section they are on. For instance, the home page doesn't specify the date of the top stories or the section that each story falls under. Additionally, a feature that indicates the length of each article (5 minute read, 10 minute read, etc.) would greatly help busy readers select their articles, allowing them to judge how far they are within a certain piece.
