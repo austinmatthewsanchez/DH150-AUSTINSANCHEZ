@@ -13,7 +13,10 @@ Subscribers use news websites and apps to customize their content. The WSJ App h
 While the app itself is consistent with its visual design, certain features are missing. Users cannot comment on artcles like they can on the web version of The WSJ. Menus and logos sit where they would be expected for the most part. There is a tab for notifications which seems misplaced. Also, a search page would be more beneficial for users to find content they want.
 
 ### Purpose of Usability Testing
-By conducting this test, I hope to confirm my suspicion of the app's lack of customization and difficulty navigating certain topics. If these usability issues are confirmed, I hope to improve the app by giving users a more centralized and detailed home page and ways to customize their news topics. Addtionally, I hope that participants in the UT will point out small navigational flaws that I've noticed as red flags. 
+By conducting this test, I hope to confirm my suspicion of the app's lack of customization and difficulty navigating certain topics. If these usability issues are confirmed, I hope to improve the app by giving users a more centralized and detailed home page and ways to customize their news topics. Addtionally, I hope that participants in the UT will point out small navigational flaws that I've noticed as red flags. In order to test these aspects of the app, I creeated three tasks for my participant to complete.
+##### 1. Find a centralized location for news coverage on coronavirus and save an article to read later
+##### 2. Customize your stock watchlist within the Market Data tab and find news articles relating to your stocks
+##### 3. Create a customized news feed that only includes the topics of politics and business
 
 ### Usability Testing Data
 The following videos capture my participant's facial expressions and user flows while using the WSJ Mobile App. In order to match my participant's actions with his thoughts, please play the screen recording of his phone once he begins his first task in the main video. 
