@@ -87,11 +87,11 @@ The WSJ App uses appropriate language for the most part to direct users through 
 ![WSJ Page](/IMG_4522.PNG)
 
 #### 3. USER CONTROL AND FREEDOM
-The user has limited options for customization and control in The WSJ App. Other news apps allow users to select favorite topics. The WSJ App has a MyWSJ tab, but with limited customization. Users should not only be able to save favorite articles, but also slect content that they would want to appear in a customized feed. The user has the freedom to set specific notifications for breaking news, economy, politics, technology, etc. In the notifications tab. This tab seems out of place and would be more adequately placed under a settings option. 
+The user has limited options for customization and control in The WSJ App. Other news apps allow users to select favorite topics. The WSJ App has a MyWSJ tab, but with limited customization. Users should not only be able to save favorite articles, but also select content that they would want to appear in a customized feed. The user has the freedom to set specific notifications for breaking news, economy, politics, technology, etc. In the notifications tab. This tab seems out of place and would be more adequately placed under a settings option. 
 ##### Severity Rating: 3/3, usability issues that need to be addressed
 
 #### 4. CONSISTENCY AND STANDARDS
-While the app itself is consistent with its visual design, certain features are missing. Users cannot comment on artcles like they can on the web version of The WSJ. Menus and logos sit where they would be expected for the most part. There is a tab for notifications which seems misplaced. Also, a search page would be more beneficial for users to find content they want. Belo
+While the app itself is consistent with its visual design, certain features are missing. Users cannot comment on artcles like they can on the web version of The WSJ. Menus and logos sit where they would be expected for the most part. There is a tab for notifications which seems misplaced. Also, a search page would be more beneficial for users to find content they want. 
 ##### Severity Rating: 2/3, minor usability issues
 
 #### 5. ERROR PREVENTION
