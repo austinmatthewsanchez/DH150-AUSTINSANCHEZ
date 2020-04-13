@@ -16,8 +16,13 @@ While the app itself is consistent with its visual design, certain features are 
 By conducting this test, I hope to confirm my suspicion of the app's lack of customization and difficulty navigating certain topics. If these usability issues are confirmed, I hope to improve the app by giving users a more centralized and detailed home page and ways to customize their news topics. Addtionally, I hope that participants in the UT will point out small navigational flaws that have also been red flags. 
 
 ### Usability Testing Data
-##### UT Survey https://forms.gle/JzaucVBfbRNUnLud9
-##### UT Videos
+##### UT Survey 
+https://forms.gle/JzaucVBfbRNUnLud9
+##### UT Moderator/Participant Video
+https://drive.google.com/file/d/1gHCUVoh9RlPXS8dNrIOwbGfT4QfNJdSf/view?usp=sharing
+##### UT iPhone Screen Recording Video 
+https://drive.google.com/file/d/1ub6djwRb2tGDkpqB8UXg-V5xsKZPQUdE/view?usp=sharing
+
 The following videos capture my participant's facial expressions and user flows while using the WSJ Mobile App. In order to match my participant's actions with his thoughts, please play the screen recording of his phone once he begins his first task in the main video. 
 
 ### Reflection
