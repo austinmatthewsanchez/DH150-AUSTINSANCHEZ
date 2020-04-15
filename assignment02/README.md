@@ -21,8 +21,8 @@ By conducting this test, I hope to confirm my suspicion of the app's lack of cus
       
       3. Create a customized news feed that only includes the topics of politics and business
 
-### Usability Testing Data
-The following videos capture my participant's facial expressions and user flows while using the WSJ Mobile App. In order to match my participant's actions with his thoughts, please play the screen recording of his phone once he begins his first task in the UT Moderator/Participant video. 
+### Usability Testing Methodology
+The pilot usability testing took place in my home in San Jose, California (the portable minimalistic lab). My participant used a laptop to complete the UT survey and tested the Wall Street Journal mobile app on his iPhone. The following videos capture my participant's facial expressions and user flows while using the WSJ Mobile App. In order to match my participant's actions with his thoughts, please play the screen recording of his phone once he begins his first task in the UT Moderator/Participant video. 
 
 ##### UT Survey 
 https://forms.gle/JzaucVBfbRNUnLud9
