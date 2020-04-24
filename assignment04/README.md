@@ -29,15 +29,19 @@
 > Users would open their preferred mobile app of choice, peruse the home page, search for topics their interested in, and read articles that pertain to them. However, the current design of apps doesn't allow users to immediately get coronavirus coverage that affects their day-to-day life. 
 
 ### Select Research Methods
-* **Interviews:** There's no better way to understand the needs, aspirations, and behaviors of users than talking to them directly. I want to get to know the people I'm designing for and hear about their struggles in their own words. Therefore, I plan to develop a set of questions -- both general and task focused -- that allows me to learn about the users' needs, capabilities, and behaviors. That way, I can highlight pain points and design to solve issues that people face. 
+>**Interviews:** There's no better way to understand the needs, aspirations, and behaviors of users than talking to them directly. I want to get to know the people I'm designing for and hear about their struggles in their own words. Therefore, I plan to develop a set of questions -- both general and task focused -- that allows me to learn about the users' needs, capabilities, and behaviors. That way, I can highlight pain points and design to solve issues that people face. 
 
 ### Research Materials
 
-##### Contextual Inquiry Guide
+##### 1. Contextual Inquiry Guide
+Please find my script for the interview [here]() with an introduction, goals, and contextual questions.
 
-##### User Data
-##### Interview Field Notes
-##### Interview Recording
+##### 2. User Data
+Please find the recording of the interview [here]()
+
+Please find the transcription of the interview [here]()
+
+##### Key Insights from the Interview
 
 
 ### Reflection
