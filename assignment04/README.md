@@ -15,6 +15,19 @@
 > 
 
 ### Identify the Target Users
+##### What are the characteristics of users? (ex. demographics, preference, expertise) 
+> Demographic: Young adults, 18-34, who engage with the media and use a mobile phone for a majority of their day-to-day activities. 
+
+> Preferences: Users have the desire to be informed with daily news and choose to be informed through various apps on their phones.
+
+> Expertise: No expertise is needed, just basic knowledge of mobile phone apps/features.
+
+##### Where would the users do that activity? (i.e., context of use)
+> Users in this demographic consume news anytime, anywhere because of the convenience factor.
+
+##### What would the users do to complete that activity? (e.g., goal, operation, method, action)
+> Users would open their preferred mobile app of choice, peruse the home page, search for topics their interested in, and read articles that pertain to them. However, the current design of apps doesn't allow users to immediately get coronavirus coverage that affects their day-to-day life. 
+
 ### Select Research Methods
 
 ### Contextual Inquiry Guide
