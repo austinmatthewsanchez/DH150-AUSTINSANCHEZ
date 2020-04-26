@@ -45,3 +45,4 @@
 
 
 ### Reflection
+It's important to ask questions that aren't biased or leading in any way. For instance, it's imperative to include both positive and negative descriptors when asking about someone's overall experience. While gauging the satisfaction of my interviewee's current news consumption process, I asked: "How satisfied or disatisfied are you with your current process?" By not leading the interviewee one way or the other, it's more likely to gather unbiased, wholistic data. 
