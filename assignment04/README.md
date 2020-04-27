@@ -46,3 +46,7 @@
 
 ## Reflection
 It's important to ask questions that aren't biased or leading in any way. For instance, it's imperative to include both positive and negative descriptors when asking about someone's overall experience. While gauging the satisfaction of my interviewee's current news consumption process, I asked: "How satisfied or disatisfied are you with your current process?" By not leading the interviewee one way or the other, it's more likely to gather unbiased, wholistic data. 
+
+I believe I can improve in many ways. This was great practice for my professional career. One thing that I noticed was that I tried to stick to the script too much. Even though many of the questions were important, I should have let the conversation flow organically instead of asking questions nonstop. I should have listened to my interviewee's responses better and ask questions based on those responses.
+
+Also, I asked a few poorly phrased questions. Instead of trying to rephrase the question to get an answer, I decided to disregard the question entirely. In the future, I would make sure my questions are phrased in a way that won't confuse the interviewee.
