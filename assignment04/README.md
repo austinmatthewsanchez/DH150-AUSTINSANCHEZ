@@ -34,7 +34,7 @@
 ## Research Materials
 
 ##### 1. Contextual Inquiry Guide
->Please find my script for the interview [here]() with an introduction, goals, and contextual questions.
+>Please find my script for the interview [here](https://docs.google.com/document/d/1FW0PHLvAcdpfHYb04ZC3WkeLExmC87vTrzogW7UZEuQ/edit?usp=sharing) with an introduction, goals, and contextual questions.
 
 ##### 2. User Data
 >Please find the recording of the interview [here]()
