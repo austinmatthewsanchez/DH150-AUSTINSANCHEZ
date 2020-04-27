@@ -1,7 +1,7 @@
 ## DH150: Assignment04: Contextual Inquiry
 ###### By Austin Sanchez 
 
-### Specify the Design Challenge
+## Specify the Design Challenge
 ##### What is the main activity your project would support the users?
 >My project focuses on the giving users a seamless experience when consuming the daily news. In today's media landscape with coronavirus coverage, citizens need to be informed more than ever. A inconvenient or poorly designed website or mobile app could deter users from staying informed.
 
@@ -14,7 +14,7 @@
 ##### What is(are) the limitation(s) that possibly would be improved with (digital) technology?
 > 
 
-### Identify the Target Users
+## Identify the Target Users
 ##### What are the characteristics of users? (ex. demographics, preference, expertise) 
 > Demographic: Young adults, 18-34, who engage with the media and use a mobile phone for a majority of their day-to-day activities. 
 
@@ -28,10 +28,10 @@
 ##### What would the users do to complete that activity? (e.g., goal, operation, method, action)
 > Users would open their preferred mobile app of choice, peruse the home page, search for topics their interested in, and read articles that pertain to them. However, the current design of apps doesn't allow users to immediately get coronavirus coverage that affects their day-to-day life. 
 
-### Select Research Methods
+## Select Research Methods
 >**Interviews:** There's no better way to understand the needs, aspirations, and behaviors of users than talking to them directly. I want to get to know the people I'm designing for and hear about their struggles in their own words. Therefore, I plan to develop a set of questions -- both general and task focused -- that allows me to learn about the users' needs, capabilities, and behaviors. That way, I can highlight pain points and design to solve issues that people face. 
 
-### Research Materials
+## Research Materials
 
 ##### 1. Contextual Inquiry Guide
 >Please find my script for the interview [here]() with an introduction, goals, and contextual questions.
@@ -44,5 +44,5 @@
 ##### Key Insights from the Interview
 
 
-### Reflection
+## Reflection
 It's important to ask questions that aren't biased or leading in any way. For instance, it's imperative to include both positive and negative descriptors when asking about someone's overall experience. While gauging the satisfaction of my interviewee's current news consumption process, I asked: "How satisfied or disatisfied are you with your current process?" By not leading the interviewee one way or the other, it's more likely to gather unbiased, wholistic data. 
