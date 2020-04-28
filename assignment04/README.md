@@ -41,7 +41,7 @@
 
 >Please find the transcription of the interview [here](https://docs.google.com/document/d/1FW0PHLvAcdpfHYb04ZC3WkeLExmC87vTrzogW7UZEuQ/edit?usp=sharing)
 
-#### Key Insights from the Interview
+## Key Insights from the Interview
   **1. How the User Views the WSJ Home Page (11:30)**
 >The user acknowledges that newspapers are organized in a way that displays top stories in no particular way. However, he points out that for a mobile app, the WSJ home page is slightly disprganized. 
 
