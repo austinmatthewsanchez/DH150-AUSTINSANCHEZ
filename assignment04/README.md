@@ -1,4 +1,4 @@
-## DH150: Assignment04: Contextual Inquiry
+## DH150 Assignment04: Contextual Inquiry
 ###### By Austin Sanchez 
 
 ## Specify the Design Challenge
