@@ -3,13 +3,13 @@
 
 ## Specify the Design Challenge
 #### What is the main activity your project would support the users?
->My project focuses on the giving users a seamless experience when consuming the daily news. In today's media landscape with coronavirus coverage, citizens need to be informed more than ever. A inconvenient or poorly designed website or mobile app could deter users from staying informed.
+>My project focuses on the giving users a seamless experience when consuming the daily news. In today's media landscape with coronavirus coverage, citizens need to be informed more than ever. An inconvenient or poorly designed website or mobile app could deter users from staying informed.
 
 #### What is the basic need involved for that activity?
 >Specifically for coronavirus coverage, this activity ensures the safety of individuals and their fellow citizens. People are tuning into the news to hear from officials about day-to-day guidelines. All people -- regardless of how they consume news -- need to stay informed for their well-being and the well-being of society.
 
 #### What is(are) the traditional/current solution(s) to satisfy the needs?
->The traditional solution varies with age demographics. Older generations opt for physical newspapers or cable television networks to stay informed, while younger people prefer online websites or mobile apps. My design solution is foucising on mobile apps that currently bombard readers with information without an option to sort through content in a simple manner. Most apps utilize news feeds that post all new articles in one place (whether they have to do with the pandemic or not). At this time, I believe mobile apps should cater to the public's need of knowing about the pandemic and how it will affect their life today.
+>The traditional solution varies with age demographics. Older generations opt for physical newspapers or cable television networks to stay informed, while younger people prefer online websites or mobile apps. My design solution is focusing on mobile apps that currently bombard readers with information without an option to sort through content in a simple manner. Most apps utilize news feeds that post all new articles in one place (whether they have to do with the pandemic or not). At this time, I believe mobile apps should cater to the public's need of knowing about the pandemic and how it will affect their daily lives.
 
 #### What is(are) the limitation(s) that possibly would be improved with (digital) technology?
 > Currently, news apps disperse information in a newspaper-like style. Top stories are able to be viewed by scrolling through the page. This limits the reader to learn about certain topics he or she is interested in. While a search feature allows the user to broadly look for content, a centralized home page with clear topics would allow the reader to customize his or her news search easily. 
