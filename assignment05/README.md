@@ -28,6 +28,6 @@
 ## Personas and Empathy Maps
 
 
-![Josh](IMG1.PNG)
+![Josh](/IMG1.png)
 
-![Josh](IMG2.PNG)
+![Josh](/IMG2.png)
