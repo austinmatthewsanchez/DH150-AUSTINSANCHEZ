@@ -24,3 +24,10 @@
 >While my interviewee said he doesn't want a customized news feed, he acknowledged that the vast majority of people do. An app that I've used for a while (Medium) has an incredibly intuitive process to create a page with custimized content. I've attached an image of this process below.
 
 ![Home Page](/IMG_4665.PNG)
+
+## Personas and Empathy Maps
+
+
+![Josh](/Josh Ferguson.PNG)
+
+![Josh](/Josh Empathy.PNG)
