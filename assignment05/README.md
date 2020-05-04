@@ -3,7 +3,7 @@
 
 
 ## Purpose of UX Storytelling
-
+>UX storytelling allows designers to put themselves in the shoes of their users. By understanding their needs, capabilities, and behaviors, designers can create products that improve lives. The process of UX storytelling--from persona creation to journey mapping--allows designers to shift their persepctive. This perspective switch is essential to getting to the core of users' pain points and issues. The development of a persona allows a team to be on the same page when making design decisions. 
 
 ## Three Features for the Wall Street Journal Mobile App
 >After conducting usability tests and interviews, I've noticed a recurring theme regarding the WSJ App's usability. In short, its organization can be improved.
