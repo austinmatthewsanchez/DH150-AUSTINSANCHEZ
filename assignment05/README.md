@@ -6,6 +6,9 @@
 
 
 ## Three Features for the Wall Street Journal Mobile App
+>After conducting usability tests and interviews, I've noticed a recurring theme regarding the WSJ App's usability. In short, its organization can be improved.
+> Please find my ideation slides [here](https://docs.google.com/presentation/d/1dFsvIP0qrxiW7XuADPgYm0qnQaayqAdo_XLH_NnLqvQ/edit?usp=sharing)
+
 #### 1. Navigation Bar on Home Page
 >Users have voiced the need for a feature to easily navigate from section to section. My interviewee said he loves the way The Washington Post allows users to tailor their reading to certain sections. I plan to redesign the WSJ Mobile App in a similar way to give users a sense of organization. 
 
