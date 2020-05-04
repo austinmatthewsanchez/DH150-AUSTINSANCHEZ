@@ -31,19 +31,19 @@
 
 ## Personas and Empathy Maps
 
-
+#### Persona #1: Josh Ferguson
 ![Josh](/IMG1.png)
 
 
 ![Josh](/IMG2.png)
 
-
+#### Persona #2: Alexis Jones
 ![Alexis](/IMG3.png)
 
 
 ![Alexis](/IMG4.png)
 
-
+#### Persona #3: Todd Fraser
 ![Todd](/IMG5.png)
 
 
