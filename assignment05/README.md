@@ -28,6 +28,6 @@
 ## Personas and Empathy Maps
 
 
-![Josh](Josh Ferguson.PNG)
+![Josh](/IMG1.PNG)
 
-![Josh](Josh Empathy.PNG)
+![Josh](/IMG2.PNG)
