@@ -54,9 +54,15 @@
 
 ### Scenario #1: Josh Ferguson
 >Josh Ferguson is a financial analyst living in New York City. Every day, he gets to the office by 8 AM and stays well after 8 PM. Back in college, Josh majored in finance and has a strong understanding of the stock market. His job takes up the bulk of his life: Josh eats, sleeps, and dreams finance. He yearns to be the best analyst for his firm and always keeps up with the daily trends of the stock market. However, Josh has limited time to do so due to the demanding nature of his job. He typically reads the Wall Street Journal on his commute to and from work. Josh gets frustrated when he can't find information efficiently because it infereres with his busy schedule.
+
+
 > Josh utilizes the WSJ app to keep track of the stock market. He particularly enjoys the "watchlist" feature that allows him to add companies to a personalized page. Currently, the watchlist page only provided information about stock price changes. Josh views this as important information, but he also wants more comprehensive coverage of the companies he's added to his watchlist. Specifically, he would want recent articles pertaining to the companies to make an informed decision whether to buy or sell. 
 
 ### Scenario #2: Alexis Jones
+>Alexis is a first-generation college student at UCLA. She majors in political science with aspirations to one day serve in public office. Alexis loves learning and takes the initiative to read as much as she can. Her professors have suggested subscribing to the Wall Street Journal, so she recently downloaded the mobile app.
+
+
+>Alexis enjoys learning about all things--from art to sports--but she specifically downloaded the WSJ app for its trusted news on U.S. and World affairs. Thes are the two topics she wants to read about most, but has had trouble sorting the content within the app. Each headline insinuates the topic of the article, but Alexis wants an easier where she doesn't have to decipher the content of the article before reading. She wants to be able to select "politics" and have an abundance of options to choose from. Currently, she sees a tech articles, coronavirus coverage, stock projections, and more content that doesn't necessarily pique her interest.
 
 ### Scenario #3: Todd Fraser
 
