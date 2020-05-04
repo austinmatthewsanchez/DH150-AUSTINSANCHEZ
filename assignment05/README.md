@@ -62,7 +62,11 @@
 >Alexis is a first-generation college student at UCLA. She majors in political science with aspirations to one day serve in public office. Alexis loves learning and takes the initiative to read as much as she can. Her professors have suggested subscribing to the Wall Street Journal, so she recently downloaded the mobile app.
 
 
->Alexis enjoys learning about all things--from art to sports--but she specifically downloaded the WSJ app for its trusted news on U.S. and World affairs. Thes are the two topics she wants to read about most, but has had trouble sorting the content within the app. Each headline insinuates the topic of the article, but Alexis wants an easier where she doesn't have to decipher the content of the article before reading. She wants to be able to select "politics" and have an abundance of options to choose from. Currently, she sees a tech articles, coronavirus coverage, stock projections, and more content that doesn't necessarily pique her interest.
+>Alexis enjoys learning about all things--from art to sports--but she specifically downloaded the WSJ app for its trusted news on U.S. and World affairs. Thes are the two topics she wants to read about most, but has had trouble sorting the content within the app. Each headline insinuates the topic of the article, but Alexis wants an easier where she doesn't have to decipher the content of the article before reading. She wants to be able to select "politics" and have an abundance of options to choose from. 
+
+
+>Alexis is an advanced user in terms of her technical abilities. In other apps, she's had the option to create a news feed with topics she wants to read about or customize her notifications. Right now, Alexis goes to the Wall Street Journal home page and scrolls through the content. She sees an article about an emerging tech company, then one about the coronavirus pandemic. After additional scrolling, she sees an article about Google and Macy's releasing their quarterly earnings. Finally, she stumbles upon an article about world politics: the protests in Hong Kong. Alexis believes there could have been an easier way to get to her desired content. 
 
 ### Scenario #3: Todd Fraser
+>Todd is a 35 year-old man married with two kids. He works as a health care professional 
 
