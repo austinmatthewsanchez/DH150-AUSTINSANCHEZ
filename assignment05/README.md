@@ -50,4 +50,11 @@
 ![Todd](/IMG6.png)
 
 
+## Scenarios and Journey Maps
+
+### Scenario #1: Josh Ferguson
+
+### Scenario #2: Alexis Jones
+
+### Scenario #3: Todd Fraser
 
