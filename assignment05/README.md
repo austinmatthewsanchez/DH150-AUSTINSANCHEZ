@@ -34,4 +34,20 @@
 
 ![Josh](/IMG1.png)
 
+
 ![Josh](/IMG2.png)
+
+
+![Alexis](/IMG3.png)
+
+
+![Alexis](/IMG4.png)
+
+
+![Todd](/IMG5.png)
+
+
+![Todd](/IMG6.png)
+
+
+
