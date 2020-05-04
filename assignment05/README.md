@@ -53,6 +53,8 @@
 ## Scenarios and Journey Maps
 
 ### Scenario #1: Josh Ferguson
+>Josh Ferguson is a financial analyst living in New York City. Every day, he gets to the office by 8 AM and stays well after 8 PM. Back in college, Josh majored in finance and has a strong understanding of the stock market. His job takes up the bulk of his life: Josh eats, sleeps, and dreams finance. He yearns to be the best analyst for his firm and always keeps up with the daily trends of the stock market. However, Josh has limited time to do so due to the demanding nature of his job. He typically reads the Wall Street Journal on his commute to and from work. Josh gets frustrated when he can't find information efficiently because it infereres with his busy schedule.
+> Josh utilizes the WSJ app to keep track of the stock market. He particularly enjoys the "watchlist" feature that allows him to add companies to a personalized page. Currently, the watchlist page only provided information about stock price changes. Josh views this as important information, but he also wants more comprehensive coverage of the companies he's added to his watchlist. Specifically, he would want recent articles pertaining to the companies to make an informed decision whether to buy or sell. 
 
 ### Scenario #2: Alexis Jones
 
