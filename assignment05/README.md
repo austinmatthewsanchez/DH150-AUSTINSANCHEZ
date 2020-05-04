@@ -68,5 +68,8 @@
 >Alexis is an advanced user in terms of her technical abilities. In other apps, she's had the option to create a news feed with topics she wants to read about or customize her notifications. Right now, Alexis goes to the Wall Street Journal home page and scrolls through the content. She sees an article about an emerging tech company, then one about the coronavirus pandemic. After additional scrolling, she sees an article about Google and Macy's releasing their quarterly earnings. Finally, she stumbles upon an article about world politics: the protests in Hong Kong. Alexis believes there could have been an easier way to get to her desired content. 
 
 ### Scenario #3: Todd Fraser
->Todd is a 35 year-old man married with two kids. He works as a health care professional 
+>Todd is a 35 year-old man married with two kids. He works as a health care professional. Todd consults the Wall Street Journal every morning for the latest news on the coronavirus pandemic. Typically, he visits the website on his laptop but recently he's been getting called in for shifts earlier in the day. Todd downloaded the WSJ Mobile App to brief himself on coronavirus news before he goes to work in the morning. 
+
+
+>
 
