@@ -71,5 +71,5 @@
 >Todd is a 35 year-old man married with two kids. He works as a health care professional. Todd consults the Wall Street Journal every morning for the latest news on the coronavirus pandemic. Typically, he visits the website on his laptop but recently he's been getting called in for shifts earlier in the day. Todd usually likes to read about a variety of subjects, but for the last few months coronavirus has been the only thing on his mind. Not only is he personally interested in the news developments, but it's an important supplement for his job as a health care professional. Todd downloaded the WSJ Mobile App to brief himself on coronavirus news before he goes to work in the morning. 
 
 
-> 
+> After Todd wakes up and has his cup of coffee, he drives to work. Todd feels more comfortable on the desktop version, but the times have forced him to get his news from the app. Once arriving at the hospital, he quickly scrolls through the home page, seeing articles about small business relief funds and the increasing number of Covid-19 cases. Todd wants to see information related to his state, Massacusetts, but has difficulty navigating to information that specific. He wishes there was a centralized tab for all-things coronavirus related. 
 
