@@ -58,12 +58,17 @@
 
 > Josh utilizes the WSJ app to keep track of the stock market. He particularly enjoys the "watchlist" feature that allows him to add companies to a personalized page. On his ride home, Josh is considering buying stock in Google. Before doing so, he wants to add the company to his watchlist and observe the company over the next few weeks. Josh searches "Google." He adds the stock to his watchlist and sees today's closing price. Currently, the watchlist page only provides information about stock price changes. Josh views this as important information, but he also wants more comprehensive coverage of the companies he's added to his watchlist. Specifically, he would want recent articles pertaining to the companies' operations to make an informed decision whether to buy or sell. Instead of seeing this information in his watchlist, Josh goes to the search feature and types "Google" again. Josh thinks there can be a more efficient way to achieve his goal.
 
+
+![Josh](/IMG7.png)
+
 ### Scenario #2: Alexis Jones
 >Alexis is a first-generation college student at UCLA. She majors in political science with aspirations to one day serve in public office. Alexis loves learning and takes the initiative to read as much as she can. Her professors have suggested subscribing to the Wall Street Journal, so she recently downloaded the mobile app.
 
 
 >Alexis enjoys learning about all things--from art to sports--but she specifically downloaded the WSJ app for its trusted news on U.S. and World affairs. These are the two topics she wants to read about most, but frequently faces trouble sorting the content of the app. Each headline insinuates the topic of the article, but Alexis wants a home page where she doesn't have to decipher the content of the article before reading. She wants to be able to select "politics" and have an abundance of options to choose from. 
 
+
+![Alexis](/IMG8.png)
 
 >Alexis is an advanced user in terms of her technical abilities. In other apps, she's had the option to create a news feed with her favorite topics or customize her notifications. Currently, Alexis goes to the Wall Street Journal home page and scrolls through the content. She sees an article about an emerging tech company, then one about the coronavirus pandemic. After additional scrolling, she sees an article about Amazon and Macy's releasing their quarterly earnings. Finally, she stumbles upon an article about world politics: the protests in Hong Kong. Alexis believes there could have been an easier way to get to her desired content. 
 
@@ -72,4 +77,8 @@
 
 
 > After Todd wakes up and has his cup of coffee, he drives to work. Todd feels more comfortable on the desktop version, but the times have forced him to get his news from the app. Once arriving at the hospital, he quickly scrolls through the home page, seeing articles about small business relief funds and the increasing number of Covid-19 cases. Todd wants to see information related to his state, Massacusetts, but has difficulty navigating to information that specific. He wishes there was a centralized tab for all-things coronavirus related. 
+
+
+
+![Todd](/IMG9.png)
 
