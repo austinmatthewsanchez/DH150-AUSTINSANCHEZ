@@ -43,7 +43,7 @@
 
 ## Key Insights from the Interview
   **1. How the User Views the WSJ Home Page (11:30)**
->The user acknowledges that newspapers are organized in a way that displays top stories in no particular way. However, he points out that for a mobile app, this should be changed. The WSJ home page is slightly disprganized. 
+>The user acknowledges that newspapers are organized in a way that displays top stories in no particular way. However, he points out that for a mobile app, this should be changed. The WSJ home page is slightly disorganized. 
 
   **2. Feature in The Washington Post app that the user wants implemented in the WSJ App (19:30)**
 >The user prefers The Washington Post design because of its clean and easy to navigate menu bar.
