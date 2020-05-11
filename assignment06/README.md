@@ -11,12 +11,15 @@
 
 >As a result of these personas, I decided to redesign the following three usage scenarios. 
 
->1. View recent news regarding stocks on a user's watchlist.
+>1. Add stocks to a watchlist and view recent news regarding stocks on a user's watchlist.
 >3. Customize news feed to give the user control and freedom. 
 >3. Navigate through topics seamlessly with improved visibility of system status.
 
 
 ### Wireframes and Flow
+##### 1. Add Stocks to Watchlist
+
+##### 2. Customize News Feed
 
 ### User Testing
 
