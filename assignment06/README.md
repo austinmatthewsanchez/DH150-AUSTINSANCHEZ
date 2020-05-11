@@ -19,7 +19,11 @@
 ### Wireframes and Flow
 ##### 1. Add Stocks to Watchlist
 
+![Stocks](/IMG_4687.jpeg)
+
 ##### 2. Customize News Feed
+
+![News Feed](/IMG_4688.jpeg)
 
 ### User Testing
 
