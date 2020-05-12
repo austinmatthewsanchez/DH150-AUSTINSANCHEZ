@@ -58,7 +58,9 @@
 ### Reflection
 >In the past as a product designer, I've had the most experience with low-fidelity wireframes and user flows. I've created wireframes and user flows by hand for the most part; however, this process allowed me to learn about more tools and ways to easiliy iterate upon user flows. This time around, I enjoyed the process of sketching the wireframes on paper, then transferring the images into InVision to iterate upon my initial ideas. Instead of continually erasing the sketches on paper like I've done in the past, I was able to get my initial thoughts sketched up and then easily edit them in InVision. I'm excited to use this application in the future. Throughout the design process, I realized that every minute detail wasn't necessary to sketch. For instance, when I was drawing a way for users to customize their news feed content, the contents of the newsfeed were irrelevant to the UX design. In other words, I focused on buttons and text that achieved the goal of customizing users' interests instead of irrelevant information that didn't solve the problem. 
 
->In terms of user testing,
+>In terms of user testing, my user had no problems going through the interaction flow and achieving the desired tasks. I learned that I should try to make my sketches neater to avoid having to explain what certain words are. Due to the messiness of some sketches, I had to guide the user during the navigation bar user flow. For certain features (like a sliding bar) it's hard to accurately depict on paper. As a result, I had to explain the feature beforehand which made the user able to navigate through different sections. One path that the user took different than the functionality I designed was on the "customization" user flow. Instead of selecting the "back button" after selecting "politics" and "coronavirus", the user tapped the "MyFeed" tab in the menu bar. This made the user suggest some sort of save button to confirm that the choices he made were acknowledged. 
+
+>Overall, this was a great learning experience that allowed me to gain new skills in InVision and wireframing. I'm excited to apply these skills to future projects.
 
 
 
