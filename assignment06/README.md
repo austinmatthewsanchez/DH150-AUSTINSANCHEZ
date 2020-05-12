@@ -29,10 +29,21 @@
 >For theses wireframes, I sketched the process of a user customizing their news feed, adding their interests. 
 
 ##### Mockups
-![News Feed](/IMG_4688.jpeg)
+![Customize News Feed](/IMG_4688.jpeg)
+##### User Flow
+![Customize](/IMG21.png)
+
+##### 3. Home Page Navigation Bar
+>For theses wireframes, I added a new way to navigate between topics on the WSJ home page.
+
+##### Mockups
+![News Feed](/IMG24.JPG)
+##### User Flow
+![News Feed](/IMG25.png)
 
 
-### User Testing
+
+### User Testing and Iteration
 
 ### Reflection
 
