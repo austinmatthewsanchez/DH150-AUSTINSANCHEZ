@@ -16,7 +16,7 @@
 >3. Navigate through topics seamlessly with improved visibility of system status.
 
 
-### Wireframes and Flow
+### Wireframes and User Flows
 ##### 1. Add Stocks to Watchlist
 >For these wireframes, I sketched the process of a user adding companies to their watchlist and consuming news solely on these companies of interest.
 
