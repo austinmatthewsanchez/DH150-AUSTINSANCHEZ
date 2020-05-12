@@ -44,10 +44,19 @@
 
 
 ### User Testing and Iteration
+>After sketching wireframes for three usage scenarios, I asked a hypothetical user to complete the three tasks in the wireframes.
+
+>1. Add stocks to a watchlist and view recent news regarding stocks on a user's watchlist.
+>2. Customize news feed with inly politics and coronavirus coverage. 
+>3. Navigate through pages with new topics bar.
+
+##### User's Walkthrough Pathways
 
 ### Reflection
+>In the past as a product designer, I've had the most experience with low-fidelity wireframes and user flows. I've created wireframes and user flows by hand for the most part; however, this process allowed me to learn about more tools and ways to easiliy iterate upon user flows. This time around, I enjoyed the process of sketching the wireframes on paper, then transferring the images into InVision to iterate upon my initial ideas. Instead of continually erasing the sketches on paper like I've done in the past, I was able to get my initial thoughts sketched up and then easily edit them in InVision. I'm excited to use this application in the future.
 
-In the past, I've created wireframes and user flows by hand. This time around, I enjoyed the process of sketching the wireframes on paper, then transferring the images into InVision to iterate upon user flows. 
+>In terms of user testing,
+
 
 
 
