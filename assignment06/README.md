@@ -50,9 +50,14 @@
 >2. Customize news feed with inly politics and coronavirus coverage. 
 >3. Navigate through pages with new topics bar.
 
-##### User's Walkthrough Pathways
+#### User's Walkthrough Pathways
+>The following images show the user's walkthrough pathways with his comments/suggestions on a sticky note.
+
+##### 1. Add Stocks to Watchlist - SUCCESSFUL
 ![News Feed](/IMG31.png)
+##### 2. Customize News Feed - MOSTLY SUCCESSFUL
 ![News Feed](/IMG30.png)
+##### 3. Use Home Page Navigation Bar -  SUCCESSFUL
 ![News Feed](/IMG32.png)
 
 ### Reflection
