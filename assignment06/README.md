@@ -23,6 +23,13 @@
 ##### Mockups
 ![Stocks](/IMG_4687.jpeg)
 ##### User Flow
+1. Select Market Data Tab
+2. Navigate to "Watchlist"
+3. Click "Add to Watchlist"
+4. Search a stock to add
+5. Add the correct stock
+6. Navigate to "News" on watchlist stocks
+
 ![Stocks](/IMG20.png)
 
 ##### 2. Customize News Feed
@@ -31,6 +38,12 @@
 ##### Mockups
 ![Customize News Feed](/IMG_4688.jpeg)
 ##### User Flow
+1. Select MyFeed Tab
+2. Click "Add Topics"
+3. Select topics to customize interests
+4. Click "Save"
+5. Select an article in customized feed
+
 ![Customize](/IMG21.png)
 
 ##### 3. Home Page Navigation Bar
@@ -39,6 +52,9 @@
 ##### Mockups
 ![News Feed](/IMG24.JPG)
 ##### User Flow
+1. Select or slide to "Politics" tab
+2. Select or slide to "Coronavirus" tab
+
 ![News Feed](/IMG25.png)
 
 
