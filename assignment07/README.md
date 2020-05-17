@@ -1,4 +1,4 @@
-## DH 150 Assignment06: Low-Fidelity Prototype
+## DH 150 Assignment07: High-Fidelity Prototype
 ##### By Austin Sanchez
 
 
