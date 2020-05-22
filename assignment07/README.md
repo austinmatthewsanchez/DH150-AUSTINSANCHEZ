@@ -35,6 +35,28 @@
 
 ### Interactive Prototype
 
+##### Task #1: Use Home Page Navigation Bar
+1. Select or slide to "Politics" tab
+2. Select or slide to "Coronavirus" tab
+3. Return to "Top Stories"
+
+##### Task #2: Add Stocks to Watchlist
+1. Select Market Data Tab
+2. Navigate to "Watchlist"
+3. Click "Add to Watchlist"
+4. Search a stock and click "go"
+5. Add "Apple"  stock
+6. Navigate to "News" on watchlist stocks
+
+
+##### Task #3: Customize News Feed
+1. Select MyFeed Tab
+2. Click "Add Topics"
+3. Select "Asia" and "Europe" to customize interests
+4. Click "Save Changes"
+5. Select an article in customized feed
+
+
 #### Diagram
 
 #### Cognitive Walkthrough
