@@ -5,6 +5,7 @@
 ### Description of Project
 
 ### Interface Designs
+> The Wall Street Journal is recognized for its professional and trustworthy news. The current design of the app uses a white, black, and gray color scheme to emulate the design of a traditional newspaper. I decided to stick to this color scheme to give the app a sense of professionalism and remind the users that they are getting their news from an accredited newspaper.
 
 ##### Home Pages with Navigation Bar
 >The following image displays how users could use a toggle navigation bar to move to various topics within the app. Through user research, I learned that the WSJ Mobile App was previously difficult to navigate. All the articles appeared on the home page without any way to sort through them by topic. My interviewee suggested a toggle bar like The Washington Post mobile app. When designing this ribbon navigation bar, I needed to make sure to give the users a strong visibility of system status. I accomplished this by underlining their current page and bolding the font. Additionally, the "home" tab is highlighted in white on the base navigation bar. 
