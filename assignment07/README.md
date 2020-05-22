@@ -4,7 +4,29 @@
 
 ### Description of Project
 
-### Interface Design
+### Interface Designs
+
+##### Home Pages with Navigation Bar
+>The following image displays how users could use a toggle navigation bar to move to various topics within the app. 
+
+
+![Home](/homepages.png)
+
+
+
+##### Adding Stocks to Watchlist
+>The following image displays some interface designs of the "Watchlist" user flow.
+
+
+![Watchlist](/watchlist.png)
+
+
+
+##### Customizing Content
+>The following image displays some interface designs of how users create a customized news feed.
+
+
+![Customization](/customize.png)
 
 ### Impression Test
 
