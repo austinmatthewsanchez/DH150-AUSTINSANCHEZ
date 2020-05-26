@@ -90,7 +90,7 @@
 
 ![Prototype](/Prototype.png)
 
-![Prototype](/navigation.png)
+![Prototype](/navigation1.png)
 
 ![Prototype](/stocks.png)
 
