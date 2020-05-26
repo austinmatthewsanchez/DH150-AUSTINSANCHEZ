@@ -90,6 +90,12 @@
 
 ![Prototype](/Prototype.png)
 
+![Prototype](/navigation.png)
+
+![Prototype](/stocks.png)
+
+![Prototype](/custom.png)
+
 
 ### Reflection
 >While designing in Figma, it's easy to become inspired with new user flows, buttons, and options. I quickly realized I didn't account for all user options in the "Stock Watchlist" usage scenario.
