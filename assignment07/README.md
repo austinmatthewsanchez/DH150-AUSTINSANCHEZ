@@ -61,7 +61,7 @@
 ![Accessibility](/Bar.png)
 
 ### Interactive Prototype
-> [Here](https://www.figma.com/file/v4XBxU0OnMuxDPKhB7irSn/WSJ-Prototype?node-id=50%3A590) is a link to my full interactive prototype in Figma. 
+> [Here](https://www.figma.com/file/v4XBxU0OnMuxDPKhB7irSn/WSJ-Prototype?node-id=50%3A590) is a link to my full interactive prototype in Figma. I've also detailed the user flows for my three usage scenarios.
 
 ##### Task #1: Use Home Page Navigation Bar
 1. Select or slide to "Politics" tab
@@ -69,11 +69,13 @@
 3. Return to "Top Stories"
 
 ##### Task #2: Add Stocks to Watchlist
-1. Select Market Data Tab
+1. Select "Market Data" Tab
 2. Navigate to "Watchlist"
 3. Click "Add to Watchlist"
 4. Search a stock and click "go"
 5. Add "Apple"  stock
+6. Expand "Apple" for more information
+7. Click "Market Data" to return to "Watchlist"
 6. Navigate to "News" on watchlist stocks
 
 
@@ -82,8 +84,7 @@
 2. Click "Add Topics"
 3. Select "Asia" and "Europe" to customize interests
 4. Click "Save Changes"
-5. Select an article in customized feed
-
+5. View "Asia" news feed
 
 #### Diagram
 
