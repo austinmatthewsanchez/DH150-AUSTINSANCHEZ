@@ -45,8 +45,18 @@
 >[Here](https://docs.google.com/document/d/1pHUz6xwcbJR-0Jceg0VKZLdEhBg6ylUxBsNDUSWzvr8/edit?usp=sharing) is a link to the results of my impression test and cognitive walkthrough.
 
 ### Accessibility Check
+>
+
+![Accessibility](/Ribbon.png)
+
+
+![Accessibility](/Text.png)
+
+
+![Accessibility](/Bar.png)
 
 ### Interactive Prototype
+> [Here](https://www.figma.com/file/v4XBxU0OnMuxDPKhB7irSn/WSJ-Prototype?node-id=50%3A590) is a link to my full interactive prototype in Figma. 
 
 ##### Task #1: Use Home Page Navigation Bar
 1. Select or slide to "Politics" tab
@@ -72,7 +82,6 @@
 
 #### Diagram
 
-#### Cognitive Walkthrough
 
 
 ### Reflection
