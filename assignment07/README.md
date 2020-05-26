@@ -11,9 +11,10 @@
 
 >As a result of these personas, I decided to redesign the following three usage scenarios. 
 
->1. Add stocks to a watchlist and view recent news regarding stocks on a user's watchlist.
->2. Customize news feed to give the user control and freedom. 
->3. Navigate through topics seamlessly with improved visibility of system status.
+>1. Navigate through topics seamlessly with improved visibility of system status.
+>2. Add stocks to a watchlist and view recent news regarding stocks on a user's watchlist.
+>3. Customize news feed to give the user control and freedom. 
+
 
 ### Interface Designs
 > The Wall Street Journal is recognized for its professional and trustworthy news. The current design of the app uses a white, black, and gray color scheme to emulate the design of a traditional newspaper. I decided to stick to this color scheme to give the app a sense of professionalism and remind the users that they are getting their news from an accredited newspaper.
