@@ -98,4 +98,6 @@
 
 
 ### Reflection
->While designing in Figma, it's easy to become inspired with new user flows, buttons, and options. I quickly realized I didn't account for all user options in the "Stock Watchlist" usage scenario.
+>While designing in Figma, it's easy to become inspired with new user flows, buttons, and options. I quickly realized I didn't account for all user options in the "Stock Watchlist" usage scenario. When looking at the wireflow screenshots, the options and potential user flows are overwhelming. However, from a designer's point of view, it's important to account for all the possible ways a user could achieve a task. I found that for a news app with a navigation bar, there's more than one way to accomplish the same task. My partcipant in the cognitive walkthrough pointed out the most intuitve path for him along with other feedback.
+
+>Receiving feedback on a high-fidelity prototype allows you to perfect the product. I asked both my roomate and brother for an impression test and cognitive walkthrough, which inspired revisions and iterations in the design process. What I enjoy most about the design process is its iterative nature. Based on the feedback I received, I plan to keep my color scheme, fonts, and material design icons. However, I need to give my users bette feedback after they achieve tasks. For instance, a pop-up screen to confirm that a stock has been added or preferences have been changed would give the users proper feedback. 
