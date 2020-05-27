@@ -3,16 +3,16 @@
 #### Austin Sanchez
 
 
-### Introduction: a brief information about the project. 
+### Introduction 
 >This quarter, I'm taking a personal finance class that requires students to read the Wall Street Journal on a weekly basis. I downloaded the mobile app and immediately thought it could be designed better for its users. My brother currently writes for The Journal and we discussed his views on the mobile app. He also was shocked that a publication so large could have a digital platform with glaring usability flaws. The Wall Street Journal is often regarded as one of the most trustworthy news outlets, so I assumed that its mobile app would be topnotch. Users primarily use the application to quickly and accurately consume news in an organized fashion. After analyzing the current design of the Wall Street Journal mobile app and conducting user research, I found that several key areas can be tweaked to improve the app's organizational structure and ease of use.
 
 
-### Clear design statement: 
+### Design Statement 
 >My project focuses on the giving users a seamless experience when consuming the daily news. In today's media landscape with coronavirus coverage, citizens need to be informed more than ever. An inconvenient or poorly designed website or mobile app could deter users from staying informed. Specifically, the Wall Street Journal's organizational structure and navigation can be improved.
 
 
 
-### Competitor analysis [assignment01 & 02]:
+### Competitor Analysis
 >In our world today, consuming news takes a variety of forms. Old school readers prefer the physical newspaper, Millennials like to peruse the web on their laptop, and the rising Generation Z does everything from their phones. This quarter, one of my courses requires students to read the Wall Street Journal on a weekly basis, so upon subscribing, I immediately analyzed the website and app's usability at a surface level. I found that the website was traditional, yet allowed users to engage in a comprehensive experience. However, the app's usabilty limited users. After conducting a heuristic evaluation, I found several issues with the mobile app.
 
 [WSJ Heuristic Evaluation](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ)
@@ -20,25 +20,25 @@
 
 [WSJ Usability Testing](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment02)
 
-### User research [contextual inquiry, assignment04]:
+### User Research
 >Summary and link to your assignment folder
 
-[WSJ User Research](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment04)
+[Read more](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment04)
 
-### UX storytelling [persona+scenario, assignment05]
+### UX Storytelling
 >UX storytelling allows designers to put themselves in the shoes of their users. By understanding their needs, capabilities, and behaviors, designers can create products that improve lives. The process of UX storytelling--from persona creation to journey mapping--allows designers to shift their persepctive. This perspective switch is essential to getting to the core of users' pain points and issues. The development of a persona allows a team to be on the same page when making design decisions.
 
-[WSJ Personas and Scenarios](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment05)
+[Read more](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment05)
 
 
 
 
-### Low-fidelity prototype (wireflow, assignment06)
+### Low-Fidelity Prototype
 >Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
-[Low-Fidelity Prototype](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment06)
+[Read more](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment06)
 
-### High-fidelity prototype (functional/interactive prototype, assignment08)
+### High-Fidelity Prototype 
 >The purpose of this prototyping phase is to translate our low-fidelity wireframes into a high-fidelity, functional product. This product can be used easier by potential users, which allows for more feedback and iteration. For my app in particular, this prototyping phase allowed me to get feedback on what a "professional" interface design looks like. Also, it highlighted additional user flows that were overlooked in the low-fidelity phase. By using Figma, I translated the wireframes into an interactive prototype with the following three usage scenarios.
 
 1. Navigate through topics seamlessly with improved visibility of system status (a navigation bar).
@@ -48,11 +48,11 @@
 <img src="https://austinmatthewsanchez.github.io/DH150-AUSTINSANCHEZ/assignment08/homepages.png" height="300px">  
 
 
-[High-Fidelity Prototype](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment07)
+[Read more](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment07)
 
 
 ### Optional evaluation and revision history 
 >Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
-### Pitch video 
->Conclusion: what did you learn throughout the process?
+### Pitch Video 
+>TBD
