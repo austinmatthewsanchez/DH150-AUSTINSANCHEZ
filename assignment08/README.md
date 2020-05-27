@@ -14,7 +14,7 @@ My project focuses on the giving users a seamless experience when consuming the 
 ### Competitor Analysis
 In our world today, consuming news takes a variety of forms. Old school readers prefer the physical newspaper, Millennials like to peruse the web on their laptop, and the rising Generation Z does everything from their phones. As I mentioned earlier, this quarter one of my courses requires students to read the Wall Street Journal on a weekly basis, so upon subscribing, I immediately analyzed the website and app's usability at a surface level. I found that the website was traditional, yet allowed users to engage in a comprehensive experience. However, the app's usabilty limited users. For instance, the navigation from topic to topic was confusing. Also, there was no rhyme or rhythm to the way articles were organized on the home page. After conducting a heuristic evaluation, I found several issues with the mobile app.
 
-[Read more](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ)
+[Read more >>](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ)
 
 
 [WSJ Usability Testing](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment02)
@@ -22,12 +22,12 @@ In our world today, consuming news takes a variety of forms. Old school readers 
 ### User Research
 Summary and link to your assignment folder
 
-[Read more](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment04)
+[Read more >>](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment04)
 
 ### UX Storytelling
 UX storytelling allows designers to put themselves in the shoes of their users. By understanding their needs, capabilities, and behaviors, designers can create products that improve lives. The process of UX storytelling--from persona creation to journey mapping--allows designers to shift their persepctive. This perspective switch is essential to getting to the core of users' pain points and issues. The development of a persona allows a team to be on the same page when making design decisions.
 
-[Read more](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment05)
+[Read more >>](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment05)
 
 
 
@@ -35,7 +35,7 @@ UX storytelling allows designers to put themselves in the shoes of their users. 
 ### Low-Fidelity Prototype
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
-[Read more](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment06)
+[Read more >>](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment06)
 
 ### High-Fidelity Prototype 
 The purpose of this prototyping phase is to translate our low-fidelity wireframes into a high-fidelity, functional product. This product can be used easier by potential users, which allows for more feedback and iteration. For my app in particular, this prototyping phase allowed me to get feedback on what a "professional" interface design looks like. Also, it highlighted additional user flows that were overlooked in the low-fidelity phase. By using Figma, I translated the wireframes into an interactive prototype with the following three usage scenarios.
@@ -47,7 +47,7 @@ The purpose of this prototyping phase is to translate our low-fidelity wireframe
 <img src="https://austinmatthewsanchez.github.io/DH150-AUSTINSANCHEZ/assignment08/homepages.png" height="300px">  
 
 
-[Read more](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment07)
+[Read more >>](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment07)
 
 
 ### Optional evaluation and revision history 
