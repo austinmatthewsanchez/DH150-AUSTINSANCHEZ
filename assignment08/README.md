@@ -2,7 +2,7 @@
 # Redesigning the Wall Street Journal Mobile App
 #### Austin Sanchez
 
-<img src=”https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/blob/master/homepages.png” height=”300px”> 
+<img src=”https://austinmatthewsanchez.github.io/DH150-AUSTINSANCHEZ/assignment08/homepages.png” height=”300px”> 
 
 ### Introduction: a brief information about the project. 
 >What is the project about? The motivation of the project and possible contribution.
