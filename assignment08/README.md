@@ -20,7 +20,7 @@ In our world today, consuming news takes a variety of forms. Old school readers 
 [WSJ Usability Testing](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment02)
 
 ### User Research
-Summary and link to your assignment folder
+Through user research, I found that the app's home page design prevents readers from easily navigating through content. There are no markers to identify an article about politics from one about coronavirus besides the headline. Even the headlines are designed in an unorganized style, as certain articles are emphasized with bold font. My interviewee noticed this design flaw when comparing the Wall Street Journal mobile app to that of the Washington Post. He acknowledged that the Wall Street Journal attempted to keep its home page like a traditional newspaper; large headlines for main stories and smaller bullet points for minor articles. However, this design does not give users an optimal experience on a device like an iPhone.
 
 [Read more >>](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment04)
 
@@ -33,7 +33,7 @@ UX storytelling allows designers to put themselves in the shoes of their users. 
 
 
 ### Low-Fidelity Prototype
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+After consolidating my user research, I created three personas to imagine user scenarios. One persona, Josh Ferguson, uses the WSJ for its trustworthy market data. Specifically, he utilizes the app to keep track of his stocks and news regarding emerging companies. My second persona, Alexis Jones, is a college student who wants to stay up-to-date with all things politics from a trustworthy news outlet. She gets frustrated when her news feed becomes cluttered with irrelevant topics. My last persona, Todd Fraser, is a healthcare professional during the coronavirus pandemic. He yearns for a way to easily navigate to the coronavirus coverage he needs within the app.
 
 [Read more >>](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment06)
 
