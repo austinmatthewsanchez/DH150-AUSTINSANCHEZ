@@ -2,14 +2,14 @@
 # Redesigning the Wall Street Journal Mobile App
 #### Austin Sanchez
 
-<img src="https://austinmatthewsanchez.github.io/DH150-AUSTINSANCHEZ/assignment08/homepages.png" height="300px">  
 
 ### Introduction: a brief information about the project. 
->What is the project about? The motivation of the project and possible contribution.
+>This quarter, I'm taking a personal finance class that requires students to read the Wall Street Journal on a weekly basis. I downloaded the mobile app and immediately thought it could be designed better for its users. My brother currently writes for The Journal and we discussed his views on the mobile app. He also was shocked that a publication so large could have a digital platform with glaring usability flaws. The Wall Street Journal is often regarded as one of the most trustworthy news outlets, so I assumed that its mobile app would be topnotch. Users primarily use the application to quickly and accurately consume news in an organized fashion. After analyzing the current design of the Wall Street Journal mobile app and conducting user research, I found that several key areas can be tweaked to improve the app's organizational structure and ease of use.
 
 
 ### Clear design statement: 
->What is the issue and Why do you think it is important to resolve that issue by your project? 
+>My project focuses on the giving users a seamless experience when consuming the daily news. In today's media landscape with coronavirus coverage, citizens need to be informed more than ever. An inconvenient or poorly designed website or mobile app could deter users from staying informed. Specifically, the Wall Street Journal's organizational structure and navigation can be improved.
+
 
 
 ### Competitor analysis [assignment01 & 02]:
@@ -44,6 +44,9 @@
 1. Navigate through topics seamlessly with improved visibility of system status (a navigation bar).
 2. Add stocks to a watchlist and view recent news regarding stocks on a user's watchlist.
 3. Customize news feed to give the user control and freedom.
+
+<img src="https://austinmatthewsanchez.github.io/DH150-AUSTINSANCHEZ/assignment08/homepages.png" height="300px">  
+
 
 [High-Fidelity Prototype](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment07)
 
