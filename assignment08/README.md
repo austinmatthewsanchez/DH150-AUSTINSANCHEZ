@@ -26,7 +26,7 @@
 [WSJ User Research](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment04)
 
 ### UX storytelling [persona+scenario, assignment05]
->Summary and link to your assignment folder
+>UX storytelling allows designers to put themselves in the shoes of their users. By understanding their needs, capabilities, and behaviors, designers can create products that improve lives. The process of UX storytelling--from persona creation to journey mapping--allows designers to shift their persepctive. This perspective switch is essential to getting to the core of users' pain points and issues. The development of a persona allows a team to be on the same page when making design decisions.
 
 [WSJ Personas and Scenarios](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment05)
 
