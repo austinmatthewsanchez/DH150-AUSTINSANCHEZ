@@ -7,11 +7,9 @@
 
 >Through user research, I found that the app's home page design prevents readers from easily navigating through content. There are no markers to identify an article about politics from one about coronavirus besides the headline. Even the headlines are designed in an unorganized style, as certain articles are emphasized with bold font. My interviewee noticed this design flaw when comparing the Wall Street Journal mobile app to that of the Washington Post. He acknowledged that the Wall Street Journal attempted to keep its home page like a traditional newspaper; large headlines for main stories and smaller bullet points for minor articles. However, this design does not give users an optimal experience on a device like an iPhone. 
 
->The purpose of this prototyping phase is to translate our low-fidelity wireframes into a high-fidelity, functional product. This product can be used easier by potential users, which allows for more feedback and iteration. For my app in particular, this prototyping phase allowed me to get feedback on what a "professional" interface design looks like. Also, it highlighted additional user flows that were overlooked in the low-fidelity phase.
+>The purpose of this prototyping phase is to translate our low-fidelity wireframes into a high-fidelity, functional product. This product can be used easier by potential users, which allows for more feedback and iteration. For my app in particular, this prototyping phase allowed me to get feedback on what a "professional" interface design looks like. Also, it highlighted additional user flows that were overlooked in the low-fidelity phase. By using Figma, I translated the wireframes into an interactive prototype with the following three usage scenarios. 
 
->As a result of the personas I created, I decided to redesign the following three usage scenarios. 
-
->1. Navigate through topics seamlessly with improved visibility of system status.
+>1. Navigate through topics seamlessly with improved visibility of system status (a navigation bar).
 >2. Add stocks to a watchlist and view recent news regarding stocks on a user's watchlist.
 >3. Customize news feed to give the user control and freedom. 
 
@@ -44,7 +42,7 @@
 ### Impression Test and Cognitive Walkthrough
 >After conducting my impression test, I had many similar responses to the ones from my peers in class. At first glance, the large headlines make it clear that the app is for news. When asked to give one word that comes to mind after looking at the interfaces, my participant said "professional." This is the exact answer I wanted to hear. The participant believed he could read news articles, access video features, and get information about stocks. Overall, I believe the color scheme, text size, and other design elements make the impression I intended for.
 
->For the cognitive walkthrough portion, I had my user go through my second usage scenario: adding stocks to a watchlist. Overall, the participant was able to complete the task without any guidance. What I found especially interesting was the path that my user took to get news about the stock he added to his watchlist. Instead of selecting the "news" option in the ribbon bar, my user clicked on the Apple Inc. button. He said it was more intuitive to select Apple, as he expected an individualized news page with more in depth market data and articles. While he still apreciates the "News" tab that has a conglomorate of articles, the individualized page is preferred. 
+>For the cognitive walkthrough portion, I had my user go through my second usage scenario: adding stocks to a watchlist. Overall, the participant was able to complete the task without any guidance. What I found especially interesting was the path that my user took to get news articles about the stock he added to his watchlist. Instead of selecting the "news" option in the ribbon bar, my user clicked on the Apple Inc. button. He said it was more intuitive to select Apple, as he expected an individualized news page with more in depth market data and articles. While he still apreciates the "News" tab that has a conglomorate of articles, the individualized page is preferred. 
 
 
 >[Here](https://docs.google.com/document/d/1pHUz6xwcbJR-0Jceg0VKZLdEhBg6ylUxBsNDUSWzvr8/edit?usp=sharing) is a link to the results of my impression test and cognitive walkthrough.
@@ -61,7 +59,9 @@
 ![Accessibility](/Bar.png)
 
 ### Interactive Prototype
-> [Here](https://www.figma.com/file/v4XBxU0OnMuxDPKhB7irSn/WSJ-Prototype?node-id=50%3A590) is a link to my full interactive prototype in Figma. I've also detailed the user flows for my three usage scenarios.
+> [Here](https://www.figma.com/file/v4XBxU0OnMuxDPKhB7irSn/WSJ-Prototype?node-id=50%3A590) is a link to my full interactive prototype in Figma. 
+
+>I've also detailed the user flows that have been prototyped for my three usage scenarios. Since news applications are very fluid with many options to choose on any given screen, I've listed the actions that have been prototyped in the Figma document. 
 
 ##### Task #1: Use Home Page Navigation Bar
 1. Select or slide to "Politics" tab
@@ -87,6 +87,7 @@
 5. View "Asia" news feed
 
 #### Diagram
+>The following screenshots display an overview of the app's wireflow followed by the three usage scenarios. Some arrows lead off-screen since buttons in the navigation bar allow users to switch between sections. 
 
 ![Prototype](/Prototype.png)
 
@@ -102,4 +103,4 @@
 
 >Receiving feedback on a high-fidelity prototype allows you to perfect the product. I asked both my roommate and brother for an impression test and cognitive walkthrough, which inspired revisions and iterations in the design process. What I enjoy most about the design process is its iterative nature. Based on the feedback I received, I plan to keep my color scheme, fonts, and material design icons. Both participants acknowledged the professional graphic design of the app. In terms of the user experience, I need to give my users better feedback after they complete tasks. For instance, a pop-up screen to confirm that a stock has been added or preferences have been changed would give the users proper feedback. 
 
->Overall, the design process went smoothly and the feedback I received inspired new iterations to the user flow. This time, I learned from my past errors and allowed the impression test and cognitive walkthrough to be conversational. I listened to my participant's insights and asked follow-up questions based on their perception of the app. One suggestion that I would consider is creating a "Discover" tab similar to Instagram. Our generation loves pictures that tell stories. The "Discover" tab could have a collage of pictures that, when clicked, direct the users to a related article.
+>Overall, the design process went smoothly and the feedback I received inspired new iterations to the user flow. This time, I learned from my past errors and allowed the impression test and cognitive walkthrough to be conversational. I listened to my participant's insights and asked follow-up questions based on their perception of the app. One suggestion that I would consider is creating a "Discover" tab similar to Instagram. Our generation loves pictures that tell stories. The "Discover" tab could have a collage of pictures that, when clicked, direct the users to a related article. I also plan on adding feedback screens for the two usage scenarios that need them. 
