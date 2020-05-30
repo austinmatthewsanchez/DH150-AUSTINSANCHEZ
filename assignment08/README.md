@@ -35,17 +35,17 @@ UX storytelling allows designers to put themselves in the shoes of their users. 
 ### Low-Fidelity Prototype
 After consolidating my user research, I created three personas to imagine user scenarios. One persona, Josh Ferguson, uses the WSJ for its trustworthy market data. Specifically, he utilizes the app to keep track of his stocks and news regarding emerging companies. My second persona, Alexis Jones, is a college student who wants to stay up-to-date with all things politics from a trustworthy news outlet. She gets frustrated when her news feed becomes cluttered with irrelevant topics. My last persona, Todd Fraser, is a healthcare professional during the coronavirus pandemic. He yearns for a way to easily navigate to the coronavirus coverage he needs within the app. As a result of these personas, I decided to redesign the following three usage scenarios with low-fidelity wireframes and wireflows.
 
-<table>
-  <tr>
-    <td><img src="https://austinmatthewsanchez.github.io/DH150-AUSTINSANCHEZ/assignment08/group1.png" height="500px"></td>
-    <td><img src="https://austinmatthewsanchez.github.io/DH150-AUSTINSANCHEZ/assignment08/group2.png" height="500px"></td>
-    <td><img src="https://austinmatthewsanchez.github.io/DH150-AUSTINSANCHEZ/assignment08/group3.png" height="500px"></td> 
-</tr>
-</table>
-
 1. Add stocks to a watchlist and view recent news regarding stocks on a user's watchlist.
 2. Customize news feed to give the user control and freedom.
 3. Navigate through topics seamlessly with improved visibility of system status.
+
+<table>
+  <tr>
+    <td><img src="https://austinmatthewsanchez.github.io/DH150-AUSTINSANCHEZ/assignment08/IMG24.JPG" height="250px"></td>
+    <td><img src="https://austinmatthewsanchez.github.io/DH150-AUSTINSANCHEZ/assignment08/IMG_4687.jpeg" height="250px"></td>
+    <td><img src="https://austinmatthewsanchez.github.io/DH150-AUSTINSANCHEZ/assignment08/IMG_4688.jpeg" height="250px"></td> 
+</tr>
+</table>
 
 [Read more >>](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment06)
 
