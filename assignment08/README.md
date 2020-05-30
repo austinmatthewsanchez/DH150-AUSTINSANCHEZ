@@ -44,8 +44,13 @@ After consolidating my user research, I created three personas to imagine user s
 ### High-Fidelity Prototype 
 The purpose of this prototyping phase is to translate our low-fidelity wireframes into a high-fidelity, functional product. This product can be used easier by potential users, which allows for more feedback and iteration. For my app in particular, this prototyping phase allowed me to get feedback on what a "professional" interface design looks like. Also, it highlighted additional user flows that were overlooked in the low-fidelity phase. By using Figma, I translated the wireframes into an interactive prototype with the three usage scenarios mentioned above.
 
-
-<img src="https://austinmatthewsanchez.github.io/DH150-AUSTINSANCHEZ/assignment08/homepages.png" height="300px">  
+<table>
+  <tr>
+    <td><img src="https://austinmatthewsanchez.github.io/DH150-AUSTINSANCHEZ/assignment08/group1.png" height="300px"></td>
+    <td><img src="https://austinmatthewsanchez.github.io/DH150-AUSTINSANCHEZ/assignment08/group2.png" height="300px"></td>
+    <td><img src="https://austinmatthewsanchez.github.io/DH150-AUSTINSANCHEZ/assignment08/group3.png" height="300px"></td> 
+</tr>
+</table>
 
 
 [Read more >>](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment07)
