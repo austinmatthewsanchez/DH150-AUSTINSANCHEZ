@@ -1,5 +1,5 @@
 
-# Redesigning the Wall Street Journal Mobile App
+# Organization and Customization: Enhancing the Wall Street Journal Mobile App
 #### Austin Sanchez
 
 
