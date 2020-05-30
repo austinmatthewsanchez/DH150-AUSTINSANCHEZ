@@ -60,6 +60,8 @@ The purpose of this prototyping phase is to translate our low-fidelity wireframe
 </tr>
 </table>
 
+> [Here](https://www.figma.com/file/v4XBxU0OnMuxDPKhB7irSn/WSJ-Prototype?node-id=50%3A590) is a link to my full interactive prototype in Figma. 
+
 
 [Read more >>](https://github.com/austinmatthewsanchez/DH150-AUSTINSANCHEZ/tree/master/assignment07)
 
@@ -70,5 +72,6 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 ### Pitch Video 
 TBD
 
-### Reflection
----
+### What I Learned
+
+
