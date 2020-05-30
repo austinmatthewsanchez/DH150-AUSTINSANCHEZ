@@ -54,9 +54,9 @@ The purpose of this prototyping phase is to translate our low-fidelity wireframe
 
 <table>
   <tr>
-    <td><img src="https://austinmatthewsanchez.github.io/DH150-AUSTINSANCHEZ/assignment08/IMG_4686.jpeg" height="300px"></td>
-    <td><img src="https://austinmatthewsanchez.github.io/DH150-AUSTINSANCHEZ/assignment08/IMG_4687.jpeg" height="300px"></td>
-    <td><img src="https://austinmatthewsanchez.github.io/DH150-AUSTINSANCHEZ/assignment08/IMG_4688.jpeg" height="300px"></td> 
+    <td><img src="https://austinmatthewsanchez.github.io/DH150-AUSTINSANCHEZ/assignment08/group1.png" height="300px"></td>
+    <td><img src="https://austinmatthewsanchez.github.io/DH150-AUSTINSANCHEZ/assignment08/group2.png" height="300px"></td>
+    <td><img src="https://austinmatthewsanchez.github.io/DH150-AUSTINSANCHEZ/assignment08/group3.png" height="300px"></td> 
 </tr>
 </table>
 
